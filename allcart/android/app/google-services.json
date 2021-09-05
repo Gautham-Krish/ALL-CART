@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "25128623754",
+    "project_id": "allcart-tinku",
+    "storage_bucket": "allcart-tinku.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25128623754:android:3d4a492d76b9f939895773",
+        "android_client_info": {
+          "package_name": "com.example.allcart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25128623754-4unqov9j9r47aiv14ld5m2sai34n7gln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPamoPh6o6G9zzRKK8hIT5WVmlXJDIh6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25128623754-4unqov9j9r47aiv14ld5m2sai34n7gln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
